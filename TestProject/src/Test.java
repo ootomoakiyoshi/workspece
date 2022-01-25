@@ -2,7 +2,7 @@ public class Test {
   public static void main (String[] args){
     int  age;
     age = 30;
-    System.out.println(age);
+    System.out.println("私の年齢は" + age + "歳です");
 
   }
 }
