@@ -1,7 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello Java");
-        System.out.println("文字出力");
-        System.out.println(5 + 5);
+        // 数値の17を出力
+        System.out.println(17);
+        // 5+3を足した値の出力
+        System.out.println(5 + 3);
+         // 5+3の文字列を出力。
+         System.out.println("5 + 3");
     }
 }
