@@ -10,5 +10,6 @@ public class App {
         
         System.out.println(5 * 3);
         System.out.println(2 % 4);
+        System.out.println("3 + 7");
     }
 }
