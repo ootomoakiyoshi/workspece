@@ -35,5 +35,25 @@ public class Progate {
 
      System.out.println(7 / 2);
      System.out.println(7.0 / 2.0);
+     int number3 = 7;
+     int number4 = 2;
+     System.out.println(number3 / number4);
+     // number1をdouble型にキャストし、number2で割った値を出力
+     System.out.println((double) number3/ number4);
+
+      // 変数nameに、好きな名前を代入してください
+    String name ="あき";
+    
+    // 変数ageに、好きな年齢を代入してください
+    int age = 28;
+    
+    
+    // 変数weightに、好きな体重を代入してください（例: 20.0）
+    double weight = 68.6;
+    
+    // 名前、年齢、身長、体重、BMIに関する情報を出力してください
+    System.out.println("名前は" + name + "です");
+    System.out.println("年齢は" + age + "です");
+    
   }
 }
