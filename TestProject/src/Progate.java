@@ -28,5 +28,12 @@ public class Progate {
     System.out.println(number1 + number2);
      // number1からnumber2を引いた値を出力してください
      System.out.println(number1 - number2);
+
+     int mouth =12; int date = 31;
+     // 「12月31日」となるように変数と文字列を連結して出力
+     System.out.println(mouth + "月" + date + "日");
+
+     System.out.println(7 / 2);
+     System.out.println(7.0 / 2.0);
   }
 }
