@@ -10,5 +10,14 @@ public class Progate {
     number++ ;
     System.out.println(number);
 
+    int  length = 6;
+    int  height = 8;
+    // 変数rectangleAreaに、四角形の面積を代入
+    int rectangleArea = length * height;
+    System.out.println(rectangleArea);
+
+    // 三角形の面積を求める。
+    int triangleArea =length * height / 2;
+    System.out.println(triangleArea);
   }
 }
