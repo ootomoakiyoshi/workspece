@@ -54,6 +54,5 @@ public class Progate {
     // 名前、年齢、身長、体重、BMIに関する情報を出力してください
     System.out.println("名前は" + name + "です");
     System.out.println("年齢は" + age + "です");
-    
   }
 }
