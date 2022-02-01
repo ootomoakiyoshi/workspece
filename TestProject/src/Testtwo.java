@@ -4,5 +4,8 @@ public class Testtwo {
     System.out.print("私の名前は");
     System.out.print(name);
     System.out.println("です");
+
+    System.out.println(4 + 2 >= 6);
+    System.out.println(4 + 2 <= 5);
   }
 }
