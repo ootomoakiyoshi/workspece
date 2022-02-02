@@ -14,6 +14,7 @@ public class Main {
 // エ・・・バイトコード
 // オ・・・JVM
 
+
 // ①・・・ boolean result = true;
 // ②・・・chart favoriteCharacter = "駆"
 // ③・・・double pi = 3.14;
