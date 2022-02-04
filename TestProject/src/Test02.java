@@ -1,4 +1,4 @@
-public class Testtwo {
+public class Test02 {
   public static void main(String[] args) {
     String name ="大友" ;
     System.out.print("私の名前は");

@@ -1,4 +1,4 @@
-public class Progate {
+public class Pg {
   public static void main(String[] args){
     int number = 8;
     // 変数に7を掛けて変数の上書き
