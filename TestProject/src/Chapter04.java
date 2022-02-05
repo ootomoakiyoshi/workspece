@@ -4,6 +4,7 @@ public class Chapter04 {
     System.out.println(name);
     name = "鈴木";
     System.out.println(name);
+    
     final int number = 2;
     System.out.println(number);
   }
