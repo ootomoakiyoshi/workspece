@@ -3,5 +3,6 @@ public class Null01 {
     System.out.println(3+4);
     System.out.println("5+4");
     System.out.println("大友");
+    
   }
 }
