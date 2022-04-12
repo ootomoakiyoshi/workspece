@@ -17,5 +17,13 @@ public class Tes03 {
 
     int triangleArea = length * height / 2;
     System.out.println(triangleArea);
+    // 三角形の変数へlengthとheightを代入
+
+    int number1 = 7;
+    int number2 = 2;
+    System.out.println(number1 / number2);
+
+    System.out.println((double)number1 / number2);
+    // int型をdouble型に型変更
   }
 }
