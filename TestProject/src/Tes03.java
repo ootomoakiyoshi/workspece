@@ -12,5 +12,10 @@ public class Tes03 {
     number ++;
     System.out.println(number);
 
+    int length = 6;
+    int height = 8;
+
+    int triangleArea = length * height / 2;
+    System.out.println(triangleArea);
   }
 }
