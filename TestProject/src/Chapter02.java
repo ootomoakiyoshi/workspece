@@ -3,6 +3,6 @@ public class Chapter02 {
     System.out.println("こんにちは！");
     System.out.println("Hello WEBCAMP!");
     System.out.println("Hello Java");
-    System.out.println("大友");
+
   }
 }
