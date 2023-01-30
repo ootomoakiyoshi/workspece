@@ -9,6 +9,7 @@ public class If01 {
     }
     if (number < 15) {
       System.out.println(number + " は15未満です");
+
     }
   }
 }
