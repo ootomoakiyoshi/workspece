@@ -1,6 +1,7 @@
 public class MyApp {
   public static void main(String[] ags) {
-    System.out.println("hello otomo");
-    System.out.println("hello otomoagein");
+    String name = "otomo";
+    System.out.println("hello" + name);
+    System.out.println("hello" + name + "again");
   }
 }
